@@ -1,1 +1,1 @@
-print("Hello CSE 310")
+print("Hello CSE 310 class")
