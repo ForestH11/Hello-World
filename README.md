@@ -15,9 +15,11 @@ This was written using Visual Studio Code
 
 ### Languages Used
 * Python (3.9.12 64 bit)
+* C++ gcc version 9.2.0 (MinGW.org GCC Build-2)
+* Clojure 1.11.0
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [cplusplus.com](https://www.cplusplus.com/)
+* [Clojure: Getting Started](https://clojure.org/guides/getting_started)
