@@ -1,1 +1,1 @@
-print("Hello CSE 310 class")
+print("Hello World") # Using the print function, display "Hello World" on the console
